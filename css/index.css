@@ -1,0 +1,16 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+#div1 {
+    width: 100%;
+    height: auto;
+    position: absolute;
+    bottom: 0;
+    text-align: center;
+}
+
+#div1 img {
+    width: 64px;
+}
